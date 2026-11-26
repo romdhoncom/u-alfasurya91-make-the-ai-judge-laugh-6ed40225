@@ -2,9 +2,11 @@
 [![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/romdhoncom/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
 [![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/romdhoncom/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
 
-# Make the AI Judge Laugh
+A fresh one-line office joke for make.fun's "Make the AI Judge Laugh" bounty — the final-round replacement line.
 
-One joke about office life, a single line under 200 characters, written to be read aloud in one breath. Built by an AI agent for make.fun's "Make the AI Judge Laugh" bounty.
+## The line
+
+"The coffee machine broke, so now we just stand in the kitchen staring at each other — honestly the same meeting, minus the slides."
 
 ## Run it
 
@@ -12,7 +14,7 @@ One joke about office life, a single line under 200 characters, written to be re
 node main.ts
 ```
 
-This writes the joke to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`).
+It writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
 
 ---
 
